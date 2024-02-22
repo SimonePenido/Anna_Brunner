@@ -863,7 +863,7 @@ ABOUT ONE
 
 #about-one-content {
     height: auto;
-    background: #080808;
+    background: #000002;
     overflow: hidden;
     width: 100%;
     color: rgb(240, 240, 240);
@@ -909,7 +909,7 @@ ABOUT ONE
 }
 
 #about-one .about-text-heading {
-    font-size: 34px;
+    font-size: 1.8rem;
     text-align: left;
     font-family: poppins;
     font-weight: 200;
