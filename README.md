@@ -41,7 +41,7 @@ Os plugins JavaScript utilizados são:
 ## Créditos
 
 - **Template**: [templatemonster.com](https://www.templatemonster.com/)
-- **Desenvolvedor**: [WinkThemes](https://winkthemes.com/)
+- **Desenvolvedor**: Wink
 - **Frameworks e Bibliotecas**: Jquery, Swipe.Js
 - **Fontes**: Google Fonts
 
