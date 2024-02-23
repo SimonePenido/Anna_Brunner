@@ -44,4 +44,4 @@ Os plugins JavaScript utilizados são:
 - **Recursos Gráficos**: Ícone8
 - **Fontes**: Google Fonts
 
-Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do WinkThemes e as personalizações e conteúdo adicionais feitos por mim para atender às necessidades específicas de Anna Brunner.
+Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do WinkThemes e as personalizações e conteúdo adicionais feitos por mim para atender às necessidades específicas do site.
