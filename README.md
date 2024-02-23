@@ -45,4 +45,4 @@ Os plugins JavaScript utilizados são:
 - **Frameworks e Bibliotecas**: Jquery, Swipe.Js
 - **Fontes**: Google Fonts
 
-Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do WinkThemes e as personalizações e conteúdo adicionais feitos por mim.
+Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do Wink Themes e as personalizações e conteúdo adicionais feitos por mim.
