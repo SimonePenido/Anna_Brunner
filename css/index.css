@@ -1231,6 +1231,7 @@ BLOG ONE
     font-size: 15px;
     padding: 5px;
     opacity: .8;
+    text-align: justify;
 }
 
 #blog-one .blog-read-more {
@@ -1592,6 +1593,7 @@ BLOG-SINGLE-ONE
 #blog-single .para {
     margin-top: 30px;
     opacity: .6;
+    text-align: justify;
 }
 
 #blog-single .italic {
