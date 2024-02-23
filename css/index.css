@@ -136,11 +136,11 @@ body {
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    color: rgb(240, 240, 240);
-    font-weight: 200;
+    color: rgb(253, 253, 253);
+    font-weight: 300;
     font-family: Josefin sans;
     font-weight: bolder;
-    background: url(../images/bg-image-three1.png);
+    background: url(../images/bg-image-three.jpg);
     /*HEADER BACKGROUND IMAGE*/
     background-position: center;
     background-size: cover;
@@ -154,8 +154,7 @@ body {
     top: 0;
     z-index: 3;
     padding: 20px;
-
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .menu-bar {
@@ -169,9 +168,13 @@ body {
     flex-direction: row;
 }
 
+.menu-bar-name {
+    font-size: 1.6rem;
+}
+
 .logo {
     position: absolute;
-    font-weight: 200;
+    font-weight: 300;
     left: 4%;
     z-index: 2;
     top: 100%;
@@ -220,6 +223,7 @@ a {
     overflow: hidden;
     transition: 0.8s;
 }
+
 
 .text.reveal,
 .text-scroll.reveal {
@@ -778,15 +782,15 @@ COMMON
 
 
 /*====================================
-INDEX ONE
+INDEX 
 ====================================*/
 #index-one .new-release {
     height: auto;
-    width: 19em;
+    width:230px;
     position: fixed;
     right: 2%;
     bottom: 1%;
-    background: rgb(240, 240, 240, 0.1);
+    background: rgb(240,240,240,0.1);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
     padding: 10px;
@@ -839,6 +843,36 @@ INDEX ONE
 INDEX ONE
 ====================================*/
 
+.fundo_main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div.galeria a {
+    text-decoration: none;
+    display: inline-block;
+    padding: .6em 1.4em;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-transform: uppercase;
+    border-radius: 5px;
+    letter-spacing: .1em;
+    color: rgb(240, 240, 240);
+}
+
+div.galeria a:hover {
+    color: #010101;
+    background-color: #ffffff9f;
+    font-weight: 400;
+}
+
+.centralizado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 
 
 
@@ -920,12 +954,12 @@ ABOUT ONE
 }
 
 #about-one .about-text-content {
-    font-size: 18px;
+    font-size: 1.2rem;
     font-family: poppins;
     padding: 20px;
     margin: 20px;
     margin-top: 0px;
-    text-align: left;
+    text-align: justify;
     opacity: .7;
 }
 
@@ -935,7 +969,7 @@ ABOUT ONE
     padding: 40px;
     padding-top: 0px;
     opacity: .9;
-    font-size: 48px;
+    font-size: 2.8rem;
 }
 
 

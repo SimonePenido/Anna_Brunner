@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Anna Brunner</title>
+  <!--favicon-img-->
+  <link rel="icon" type="image/png" href="images/favicon.jpg">
+  <!--favicon-img-->
+  <link rel="stylesheet" href="css/index.css">
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css'>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background: #000;
+      font-family: Josefin, Poppins, sans-serif;
+    }
+
+    .carrousel-caption {
+      color: #44444485;
+    }
+
+    section.awSlider .carousel {
+      display: table;
+      z-index: 2;
+      -moz-box-shadow: 0 0 4px #444;
+      -webkit-box-shadow: 0 0 4px #444;
+      box-shadow: 0 0 15px rgba(1, 1, 1, .5);
+    }
+
+    section.awSlider {
+      margin: 30px auto;
+      padding: 30px;
+      position: relative;
+      display: table;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+
+    section.awSlider:hover>img {
+      -ms-transform: scale(1.2);
+      -webkit-transform: scale(1.2);
+      transform: scale(1.2);
+      opacity: 1;
+    }
+
+    section.awSlider img {
+      pointer-events: none;
+    }
+
+    section.awSlider>img {
+      position: absolute;
+      top: 30px;
+      z-index: 1;
+      transition: all .3s;
+      filter: blur(1.8vw);
+      -webkit-filter: blur(2vw);
+      -moz-filter: blur(2vw);
+      -o-filter: blur(2vw);
+      -ms-filter: blur(2vw);
+      -ms-transform: scale(1.1);
+      -webkit-transform: scale(1.1);
+      transform: scale(1.1);
+      opacity: .5;
+    }
+
+    .back-button {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 9999;
+      background-color: #161616d8;
+      padding: 6px 10px;
+      border-radius: 5px;
+      cursor: pointer;
+      color: rgb(240, 240, 240);
+    }
+
+    .back-button:hover {
+      background-color: rgba(255, 255, 255, 0.4);
+    }
+  </style>
+</head>
+
+<body>
+  <button class="back-button" onclick="window.location.href='index.html'">Home</button>
+
+      <!-- partial:index.partial.html -->
+
+
+      <section class="awSlider">
+        <div class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target=".carousel" data-slide-to="0" class="active"></li>
+            <li data-target=".carousel" data-slide-to="1"></li>
+            <li data-target=".carousel" data-slide-to="2"></li>
+            <li data-target=".carousel" data-slide-to="3"></li>
+            <li data-target=".carousel" data-slide-to="4"></li>
+            <li data-target=".carousel" data-slide-to="5"></li>
+            <li data-target=".carousel" data-slide-to="6"></li>
+            <li data-target=".carousel" data-slide-to="7"></li>
+            <li data-target=".carousel" data-slide-to="8"></li>
+            <li data-target=".carousel" data-slide-to="9"></li>
+            <li data-target=".carousel" data-slide-to="10"></li>
+            <li data-target=".carousel" data-slide-to="11"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="images/1anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/2anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/3anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/4anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/5anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/6anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/7anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/8anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/9anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/10anna.jpeg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+            <div class="item">
+              <img src="images/11anna.jpg">
+              <div class="carousel-caption">#</div>
+            </div>
+
+          </div>
+
+          <!-- Controls -->
+          <a class="left carousel-control" href=".carousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Geri</span>
+          </a>
+          <a class="right carousel-control" href=".carousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">İleri</span>
+          </a>
+        </div>
+      </section>
+      <!-- partial -->
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+      <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js'></script>
+      <script src="./script.js"></script>
+
+      <script>
+        $('section.awSlider .carousel').carousel({
+          pause: "hover",
+          interval: 2000
+        });
+
+        var startImage = $('section.awSlider .item.active > img').attr('src');
+        $('section.awSlider').append('<img src="' + startImage + '">');
+
+        $('section.awSlider .carousel').on('slid.bs.carousel', function () {
+          var bscn = $(this).find('.item.active > img').attr('src');
+          $('section.awSlider > img').attr('src', bscn);
+        });
+
+      </script>
+
+
+  </main>
+  <!-- MAIN CONTENT -->
+
+</body>
+
+</html>
