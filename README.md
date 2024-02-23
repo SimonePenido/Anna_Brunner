@@ -1,5 +1,7 @@
 # ANNA BRUNNER
 
+![Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/702ba4b9-b20f-4b2a-891e-c2e62a2e2acd)
+
 ## Sobre o Template
 
 Este projeto é baseado em um template adquirido via templatemonster.com, desenvolvido pela equipe do Wink Themes. O template foi customizado por mim para criar o website da talentosa cantora e compositora Anna Brunner, conhecida por seu trabalho com as bandas Exit Eden e League of Distortion.
@@ -41,7 +43,6 @@ Os plugins JavaScript utilizados são:
 - **Template**: [templatemonster.com](https://www.templatemonster.com/)
 - **Desenvolvedor**: [WinkThemes](https://winkthemes.com/)
 - **Frameworks e Bibliotecas**: Jquery, Swipe.Js
-- **Recursos Gráficos**: Ícone8
 - **Fontes**: Google Fonts
 
-Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do WinkThemes e as personalizações e conteúdo adicionais feitos por mim para atender às necessidades específicas do site.
+Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do WinkThemes e as personalizações e conteúdo adicionais feitos por mim.
