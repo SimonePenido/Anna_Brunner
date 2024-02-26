@@ -1,5 +1,12 @@
 # ANNA BRUNNER
 
+Este projeto foi uma customização de template fornecido pela Templatemonster, contando com expertise de design da Wink Themes. As personalizações e conteúdo adicionais foram feitos por mim.
+
+## Deploy
+
+GitHub Pages: https://simonepenido.github.io/Anna_Brunner/
+Netlify: https://annabrunner.netlify.app
+
 ![Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/702ba4b9-b20f-4b2a-891e-c2e62a2e2acd)
 
 ## Sobre o Template
@@ -45,4 +52,4 @@ Os plugins JavaScript utilizados são:
 - **Frameworks e Bibliotecas**: Jquery, Swipe.Js
 - **Fontes**: Google Fonts
 
-Este projeto foi uma colaboração entre o template fornecido pelo templatemonster.com, a expertise de design da equipe do Wink Themes e as personalizações e conteúdo adicionais feitos por mim.
+
