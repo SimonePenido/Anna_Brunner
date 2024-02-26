@@ -2,6 +2,9 @@
 
 Este projeto foi uma customização de template fornecido pela Templatemonster, contando com expertise de design da Wink Themes. As personalizações e conteúdo adicionais foram feitos por mim.
 
+![1 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/94cd5169-c938-41e5-b400-382c582be33c)
+
+
 ## Deploy
 
 GitHub Pages:  [Anna_Brunner](https://simonepenido.github.io/Anna_Brunner/)
