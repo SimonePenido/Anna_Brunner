@@ -4,10 +4,10 @@ Este projeto foi uma customização de template fornecido pela Templatemonster, 
 
 ## Deploy
 
-GitHub Pages: https://simonepenido.github.io/Anna_Brunner/
-Netlify: https://annabrunner.netlify.app
+GitHub Pages:  [Anna_Brunner](https://simonepenido.github.io/Anna_Brunner/)
+<br>
+Netlify:  [Anna_Brunner](https://annabrunner.netlify.app)
 
-![Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/702ba4b9-b20f-4b2a-891e-c2e62a2e2acd)
 
 ## Sobre o Template
 
