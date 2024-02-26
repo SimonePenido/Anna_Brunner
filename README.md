@@ -55,4 +55,18 @@ Os plugins JavaScript utilizados são:
 - **Frameworks e Bibliotecas**: Jquery, Swipe.Js
 - **Fontes**: Google Fonts
 
+## Prints
 
+![3 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/0fb105bf-66d3-4d51-a340-aa2f15384aad)
+
+![2 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/896090de-c39b-4caa-a8f4-da48091e2bdf)
+
+![4 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/5cb1911d-f4a5-47f9-8eff-06c0c809c77b)
+
+![5 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/65d44c31-7918-4fa0-a3dc-6a7eeeb67491)
+
+![6 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/a5862458-26ab-4a5c-90de-cbb842d0a6ce)
+
+![7 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/6868bdbc-5b32-40cc-8c7c-0ae2169febbf)
+
+![8 Anna Brunner](https://github.com/SimonePenido/Anna_Brunner/assets/112627846/0f625e35-7e3f-4da1-843c-98bcb17b15ed)
